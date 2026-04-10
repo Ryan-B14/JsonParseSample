@@ -1,4 +1,4 @@
-package com.RyanB.jsonpractice.view.ui.composables
+package com.ryanb.jsonpractice.view.ui.composables
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -22,8 +22,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.RyanB.jsonpractice.view.ui.theme.JsonPracticeTheme
-import com.RyanB.jsonpractice.viewmodel.ContactViewModel
+import com.ryanb.jsonpractice.view.ui.theme.JsonPracticeTheme
+import com.ryanb.jsonpractice.viewmodel.ContactViewModel
 
 
 @Composable

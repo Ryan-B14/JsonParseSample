@@ -1,4 +1,4 @@
-package com.RyanB.jsonpractice
+package com.ryanb.jsonpractice
 
 import org.junit.Test
 

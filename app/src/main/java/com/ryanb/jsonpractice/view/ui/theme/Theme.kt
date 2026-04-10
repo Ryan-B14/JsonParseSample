@@ -1,4 +1,4 @@
-package com.RyanB.jsonpractice.view.ui.theme
+package com.ryanb.jsonpractice.view.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

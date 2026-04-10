@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.RyanB.jsonpractice"
+    namespace = "com.ryanb.jsonpractice"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.RyanB.jsonpractice"
+        applicationId = "com.ryanb.jsonpractice"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

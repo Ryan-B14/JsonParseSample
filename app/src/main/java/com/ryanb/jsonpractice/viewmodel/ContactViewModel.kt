@@ -1,9 +1,9 @@
-package com.RyanB.jsonpractice.viewmodel
+package com.ryanb.jsonpractice.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.RyanB.jsonpractice.model.data.ContactInfo
-import com.RyanB.jsonpractice.model.repository.RetrofitInstance
+import com.ryanb.jsonpractice.model.data.ContactInfo
+import com.ryanb.jsonpractice.model.repository.RetrofitInstance
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch

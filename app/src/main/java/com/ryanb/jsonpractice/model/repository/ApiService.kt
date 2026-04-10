@@ -1,6 +1,6 @@
-package com.RyanB.jsonpractice.model.repository
+package com.ryanb.jsonpractice.model.repository
 
-import com.RyanB.jsonpractice.model.data.ContactInfo
+import com.ryanb.jsonpractice.model.data.ContactInfo
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET

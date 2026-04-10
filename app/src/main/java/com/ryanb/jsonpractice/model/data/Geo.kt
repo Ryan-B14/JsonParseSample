@@ -1,4 +1,4 @@
-package com.RyanB.jsonpractice.model.data
+package com.ryanb.jsonpractice.model.data
 
 data class Geo(
     val lat: String,
